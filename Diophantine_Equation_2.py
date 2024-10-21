@@ -1,7 +1,6 @@
 """
 -----------------------------------------------------------------------
-Assignment 3 Problem 3: To let the customer know the next feasible quantity and 
-                        the minimum cost option of chicken nuggets they can order.
+Problem 3.2 : To let the customer know the next feasible quantity and the minimum cost option of chicken nuggets they can order.
 October 20, 2024 
 Nishigandha Wankhade 
 -----------------------------------------------------------------------
