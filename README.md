@@ -5,7 +5,7 @@
 
 **Diophantine equations used: 1)**  6a + 9b + 22c = n (for number of nuggets)
 
-                           ** 2)**  3a + 4b + 9c = cost (for finding cost, where 6-piece = $3, 9-piece = $4, and 22-piece = $9)
+                           **Eq 2)**  3a + 4b + 9c = cost (for finding cost, where 6-piece = $3, 9-piece = $4, and 22-piece = $9)
 
 **Expected Result:** find the values of a, b, and c. And suggest the least priced option.
 
